@@ -1,6 +1,6 @@
 # LeekJMiniCh2
 // Jasmine Leek
-// 18 Oct 2022
+// 18 oct 2022
 // Mini-Challenge #2 "Add 2 Numbers"
 // This is an application that asks the user to input two numbers, then adds them together and prints the sum
 
